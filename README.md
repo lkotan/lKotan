@@ -1,6 +1,6 @@
 ## Hi there, I'm a Frontend Developer !
 
-- 🔭 I'm currently actively looking for a job
+- 🔭 I'm open to job offers
 - 🌱 I’m currently learning TypeScript and React
 
 ### Connect with me:
