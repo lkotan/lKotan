@@ -1,7 +1,6 @@
 ## Hi there, I'm a Frontend Developer !
 
 - 🔭 I'm open to job offers
-- 🌱 I’m currently learning TypeScript and React
 
 ### Connect with me:
 
