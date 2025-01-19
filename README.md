@@ -1,4 +1,4 @@
-## Hi there, I'm a Frontend Developer !
+## Hi there, I'm a FullStack Developer !
 
 - 🔭 I'm open to job offers
 
